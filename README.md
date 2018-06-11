@@ -1,2 +1,9 @@
 # Medical_Image_Data
-some medical data's description
+
+## Vision
+### Segmentation
+* Optical Coherence Tomography(oct) Images with Diabetic Macular Edema Dataset [1]    </br>
+  * Dataset Download URL: http://people.duke.edu/~sf59/Chiu_BOE_2014_dataset.htm <br>
+  * Preprocessing Code: 
+
+[1]  S. J. Chiu, M. J. Allingham, P. S. Mettu, S. W. Cousins, J. A. Izatt, S. Farsiu, "Kernel regression based segmentation of optical coherence tomography images with diabetic macular edema", ( BIOMEDICAL OPTICS EXPRESS), 6(4), pp. 1172-1194, April, 2015   
